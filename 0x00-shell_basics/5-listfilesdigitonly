@@ -1,0 +1,4 @@
+#!/bin/bash
+-l
+id -G [-n]
+ls -a
